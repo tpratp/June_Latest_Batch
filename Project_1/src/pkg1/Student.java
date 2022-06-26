@@ -7,7 +7,7 @@ public class Student {
 	
 	public void display1()
 	{
-		System.out.println("Welcome to all of you"); 
+		System.out.println("Welcome to all of you in june batch"); 
 	
 	}
 
